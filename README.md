@@ -65,5 +65,5 @@
 ##
 <br clear="both">
 <div align="center">
-<img src="https://raw.githubusercontent.com/ktx-dhrumil/ktx-dhrumil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DhrumilTrada/DhrumilTrada/output/snake.svg" alt="Snake animation" />
 </div>
